@@ -1,6 +1,6 @@
 const materias = [
     {
-        nombre:"PHO basico",
+        nombre:"PHP basico",
         instructor:"Cristian Buitrago",
         notas:[
             3.4,
